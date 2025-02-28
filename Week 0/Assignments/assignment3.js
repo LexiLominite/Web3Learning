@@ -23,5 +23,9 @@ function checkHashwithPrefix2(inputPrefix, hashPrefix){
 
 }
 
-const result = checkHashwithPrefix2('100xdevs','00000');
+specificStr = `
+harkirat => Raman | Rs 100
+Ram => Ankit | Rs 10
+`
+const result = checkHashwithPrefix2(specificStr,'00000');
 console.log(`input: ${result.input}, hash: ${result.hash} `);
