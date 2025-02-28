@@ -1,0 +1,1 @@
+/Users/lexilominite/Documents/Learning/Harikrat\ Cohort/Web3/RustBootCamp/rust-project-week-26/target/debug/rust-project-week-26: /Users/lexilominite/Documents/Learning/Harikrat\ Cohort/Web3/RustBootCamp/rust-project-week-26/src/main.rs
